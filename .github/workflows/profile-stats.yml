@@ -1,0 +1,82 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -----------------------------
+      # GitHub Statistics
+      # -----------------------------
+
+      - name: Generate GitHub Stats
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: username=yogeshcodes27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -----------------------------
+      # Top Languages
+      # -----------------------------
+
+      - name: Generate Top Languages
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: username=yogeshcodes27&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -----------------------------
+      # GitHub Streak
+      # -----------------------------
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          USERNAME: yogeshcodes27
+          THEME: dark
+          BACKGROUND: 0D1117
+          BORDER: 30363D
+          RING: 8B5CF6
+          FIRE: 7C3AED
+          CURSOR: A78BFA
+          SIDE_NUMBERS: C9D1D9
+          SIDE_LABELS: C9D1D9
+          DATES: 8B949E
+          stroke: 8B5CF6
+          output_path: profile/streak.svg
+
+      # -----------------------------
+      # Commit generated files
+      # -----------------------------
+
+      - name: Commit profile assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub profile stats"
+
+          git push
