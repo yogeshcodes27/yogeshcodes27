@@ -294,16 +294,36 @@ Worked on practical software-development concepts with emphasis on application d
 
 ---
 
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=yogeshcodes27&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshcodes27&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+    width="48%"
+  />
+
+</p>
+
+---
+
 ## GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/yogeshcodes27">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=yogeshcodes27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-      alt="GitHub Trophies"
-      width="100%"
-    />
-  </a>
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=yogeshcodes27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+
 </p>
 
 ---
@@ -311,7 +331,13 @@ Worked on practical software-development concepts with emphasis on application d
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshcodes27&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="95%" />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshcodes27&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true"
+    width="95%"
+    alt="Yogesh's Contribution Graph"
+  />
+
 </p>
 
 ---
@@ -319,10 +345,27 @@ Worked on practical software-development concepts with emphasis on application d
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
 
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+
+</picture>
+
+</p>
 
 ## Current Focus
 
