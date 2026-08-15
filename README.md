@@ -282,17 +282,14 @@ Worked on practical software-development concepts with emphasis on application d
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yogeshcodes27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&ring_color=8B5CF6" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshcodes27&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+
+  <img
+    src="https://streak-stats.demolab.com?user=yogeshcodes27&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
+    width="70%"
+    alt="GitHub Streak"
+  />
+
 </p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=yogeshcodes27&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" />
-</p>
-
----
-
----
 
 ---
 
