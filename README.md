@@ -279,17 +279,23 @@ Worked on practical software-development concepts with emphasis on application d
 
 ---
 
+---
+
 ## GitHub Analytics
 
 <p align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=yogeshcodes27&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
-    width="70%"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/yogeshcodes27">
+    <img
+      src="https://streak-stats.demolab.com/?user=yogeshcodes27&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
+      width="700"
+      alt="Yogesh GitHub Streak"
+    />
+  </a>
 
 </p>
+
+
 
 ---
 
@@ -310,11 +316,13 @@ Worked on practical software-development concepts with emphasis on application d
 
 <p align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshcodes27&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true"
-    width="95%"
-    alt="Yogesh's Contribution Graph"
-  />
+  <a href="https://github.com/yogeshcodes27">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshcodes27&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&radius=8&custom_title=Yogesh%27s%20Contribution%20Activity&days=31"
+      width="95%"
+      alt="Yogesh's GitHub Contribution Activity"
+    />
+  </a>
 
 </p>
 
