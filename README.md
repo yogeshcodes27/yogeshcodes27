@@ -318,11 +318,10 @@ Worked on practical software-development concepts with emphasis on application d
 
 <p align="center">
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=yogeshcodes27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-    width="100%"
-    alt="GitHub Trophies"
-  />
+  <img src="https://img.shields.io/badge/DSA-Active-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Builder-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathons-Finalist-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Exploring-5B21B6?style=for-the-badge" />
 
 </p>
 
