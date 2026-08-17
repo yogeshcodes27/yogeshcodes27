@@ -328,28 +328,27 @@ Worked on practical software-development concepts with emphasis on application d
 
 ---
 
-## Contribution Snake
+## Contribution Shooter
 
 <p align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/github-snake-dark.svg"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/galaga-contribution-graph-dark.svg"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/github-snake.svg"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/galaga-contribution-graph.svg"
+    />
 
-  <img
-    src="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-
-</picture>
+    <img
+      src="https://raw.githubusercontent.com/yogeshcodes27/yogeshcodes27/output/galaga-contribution-graph.svg"
+      width="100%"
+      alt="Yogesh's GitHub Contribution Shooter"
+    />
+  </picture>
 
 </p>
 
