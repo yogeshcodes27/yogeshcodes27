@@ -279,23 +279,15 @@ Worked on practical software-development concepts with emphasis on application d
 
 ---
 
----
-
 ## GitHub Analytics
 
 <p align="center">
-
-  <a href="https://github.com/yogeshcodes27">
-    <img
-      src="https://streak-stats.demolab.com/?user=yogeshcodes27&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
-      width="700"
-      alt="Yogesh GitHub Streak"
-    />
-  </a>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=yogeshcodes27&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=8B949E"
+    alt="Yogesh GitHub Streak"
+    width="700"
+  />
 </p>
-
-
 
 ---
 
