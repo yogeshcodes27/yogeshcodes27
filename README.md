@@ -279,15 +279,15 @@ Worked on practical software-development concepts with emphasis on application d
 
 ---
 
-## GitHub Analytics
+<h2>GitHub Analytics</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=yogeshcodes27&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=8B949E"
+    src="./profile/streak.svg"
     alt="Yogesh GitHub Streak"
     width="700"
   />
-</p>
+</p> 
 
 ---
 
