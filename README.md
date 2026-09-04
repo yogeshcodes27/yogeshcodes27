@@ -289,14 +289,6 @@ Worked on practical software-development concepts with emphasis on application d
   />
 </p> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg" />
-  <img src="./assets/overview.light.svg"
-       alt="GitHub Statistics"
-       width="100%" />
-</picture>
-
 ---
 
 ## GitHub Trophies
@@ -314,13 +306,15 @@ Worked on practical software-development concepts with emphasis on application d
 
 ## Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/lifetime.light.svg" />
-  <img src="./assets/lifetime.light.svg"
-       alt="GitHub Contribution History"
-       width="100%" />
-</picture>
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="./assets/contribution-graph.svg"
+    alt="Yogesh's Contribution Graph"
+    width="100%"
+  />
+</p>
 
 ---
 
