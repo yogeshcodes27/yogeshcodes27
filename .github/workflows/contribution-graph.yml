@@ -16,13 +16,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Contribution Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: yogeshcodes27
-          options: custom_title=Yogesh%27s%20Contribution%20Graph&days=31&hide_border=true&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area_color=8B5CF6&area=true&grid=false&radius=10&height=320
-          output_path: assets/contribution-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate 365 Day Contribution Graph
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/contribution_graph.py
 
       - name: Commit Graph
         run: |
